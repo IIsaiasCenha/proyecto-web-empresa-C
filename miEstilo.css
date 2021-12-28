@@ -1,3 +1,8 @@
 body{
-  backgroud-color: blue;
+  backgroud-color: rgb(143, 189, 143);
+  text-align: center;
+}
+ul{
+  border: 1px solid black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
